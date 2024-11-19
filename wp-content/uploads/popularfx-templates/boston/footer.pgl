@@ -1,0 +1,54 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#3e9fbeff" ele_margin="0px,0px,0px,0px" ele_padding="40px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Merriweather,36,,600,,,Solid,,,,"]
+
+Boston[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+<p><span style="color: rgb(255, 255, 255);">Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</span></p>[/pl_text]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Merriweather,22,,600,,,Solid,,,,"]
+
+Our Services[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#ffffff4d" divider_weight="1" divider_widht="100" divider_gap="1" divider_alignment="left" ele_bg_hover_delay="400"]
+[/pl_divider]
+[pl_list list_type="none" spacing="10" list_color="#ffffffff" item_indent="8" icon_color="#ffffffff" icon_border_type="" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Lato,16,,500,,,Solid,,,,"]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+Privacy Policy[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+Call Center[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+International Office[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+Social Media[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+Employment[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Merriweather,22,,600,,,Solid,,,,"]
+
+Contacts[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#ffffff4d" divider_weight="1" divider_widht="100" divider_gap="1" divider_alignment="left" ele_bg_hover_delay="400"]
+[/pl_divider]
+[pl_address icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" icon_color="#ffffffff" icon_size="24" space="10" color="#ffffffff" typography="Merriweather,14,,,,,Solid,,,,"]
+[/pl_address]
+[pl_phone icon="fas fa-phone-alt" ele_bg_hover_delay="400" color="#ffffffff" icon_color="#ffffffff" icon_size="24" space="10" typography="Merriweather,14,,600,,,Solid,,,," ele_margin="10px,0px,0px,0px"]
+[/pl_phone]
+[pl_iconbox service_icon="fas fa-clock" service_alignment="left" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="22" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Mon – Fri (10am – 8pm)" service_title_spacing="3,0,10,10" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Merriweather,14,,400,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_margin="10px,0px,0px,0px"]
+
+[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#3e9fbeff"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_copyright ele_bg_hover_delay="400" typography="Merriweather,18,,600,,,Solid,,,," color="#ffffffff" ele_padding="0px,0px,20px,0px"]
+[/pl_copyright]
+[/pl_col]
+[/pl_row]

@@ -1,0 +1,239 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/banner-img1.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff" ele_padding="150px,0px,150px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Merriweather,70,,600,,,Solid,,,,"]
+
+
+Set Your Own Pace[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+
+<p style="text-align: center; font-size: 16px;"><span style="color: rgb(255, 255, 255);">Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</span></p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#0f0f0fff" ele_bg_hover_delay="400" align="center" heading_typo="Merriweather,35,,600,,,Solid,,,,"]
+
+
+What We Do[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#73ae20ff" divider_weight="3" divider_widht="10" divider_gap="1" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="30px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-user" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#73ae20ff" service_icon_font_size="50" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Human Resource" service_title_spacing="0,0,10,0" heading_state="hover" service_heading_color="#0f0f0fff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,10,0" service_content_spacing="0,15,20,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" service_icon_color_hover="#ffffffff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="6px,6px,6px,6px" ele_padding="10px,0px,10px,0px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-share-square-o" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#3e9fbeff" service_icon_font_size="50" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Mergers" service_title_spacing=",,10," heading_state="hover" service_heading_color="#0f0f0fff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,10,0" service_content_spacing="0,15,20,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3e9fbeff" service_icon_color_hover="#ffffffff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="6px,6px,6px,6px" ele_padding="10px,0px,10px,0px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-user" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#73ae20ff" service_icon_font_size="50" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Market Research" service_title_spacing=",,10," heading_state="hover" service_heading_color="#0f0f0fff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,10,0" service_content_spacing="0,15,20,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" service_icon_color_hover="#ffffffff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="6px,6px,6px,6px" ele_padding="10px,0px,10px,0px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="30px,0px,30px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-check" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#3e9fbeff" service_icon_font_size="50" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Unique Solution" service_title_spacing=",,10," heading_state="hover" service_heading_color="#0f0f0fff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,10,0" service_content_spacing="0,15,20,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3e9fbeff" service_icon_color_hover="#ffffffff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="6px,6px,6px,6px" ele_padding="10px,0px,10px,0px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-refresh" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#73ae20ff" service_icon_font_size="50" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Conflict Management" service_title_spacing=",,10," heading_state="hover" service_heading_color="#0f0f0fff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,10,0" service_content_spacing="0,15,20,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" service_icon_color_hover="#ffffffff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="6px,6px,6px,6px" ele_padding="10px,0px,10px,0px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-edit" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#3e9fbeff" service_icon_font_size="50" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Unlimited Property" service_title_spacing=",,10," heading_state="hover" service_heading_color="#0f0f0fff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,10,0" service_content_spacing="0,15,20,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3e9fbeff" service_icon_color_hover="#ffffffff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="6px,6px,6px,6px" ele_padding="10px,0px,10px,0px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/greet-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff" ele_padding="150px,0px,150px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Merriweather,34,,,,,Solid,,,,"]
+
+
+Our CEO Greets Boston’s<br/>
+Future Clients[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#73ae20ff" divider_weight="3" divider_widht="10" divider_gap="1" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[pl_text ele_bg_hover_delay="400"]
+
+
+<p style="text-align: center; "><span style="color: rgb(255, 255, 255); font-size: 16px;">Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</span></p>[/pl_text]
+[pl_btn text="Know More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="600" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" btn_typo="Lato,16,,600,,,Solid,,,," btn_bg_color=" " btn_color="#73ae20ff" btn_border_type="solid" btn_border_color="#73ae20ff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" btn_bor_hover="hover" btn_border_type_hover="solid" btn_border_color_hover="#73ae20ff" btn_border_width_hover="2,2,2,2" btn_hover="hover" btn_bg_color_hover="#73ae20ff" btn_color_hover="#ffffffff"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="40px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Merriweather,30,,600,,,Solid,,,,"]
+
+
+Our Principles[/pl_heading]
+[pl_accordion icon="fa fa-plus" active_icon="fa fa-minus" icon_align="left" icon_padding="20" tabs_color="#444444" tabs_bg_color=" " tabs_active_color="#ffffff" tabs_active_bg_color="#73ae20ff" tab_padding="5" tabs_content_bg_color="#fff" ele_bg_hover_delay="400" accordion_title_typo="Merriweather,16,,,,,Solid,,,," acc_content_typo="Lato,16,,400,,,Solid,0,,,"]
+[pl_accordion_item title="Full Support" ele_bg_hover_delay="400"]
+
+
+<br><p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p><p><br></p>[/pl_accordion_item]
+[pl_accordion_item title="Customized" ele_bg_hover_delay="400"]
+
+
+<br><p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p><p><br></p>[/pl_accordion_item]
+[pl_accordion_item title="Fully Responsive" ele_bg_hover_delay="400"]
+
+
+Lorem ipsum dolor sit amet[/pl_accordion_item]
+[/pl_accordion]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Merriweather,30,,600,,,Solid,,,,"]
+
+
+Our Skills[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p><br><p>Page Maker including versions. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu hendrerit nunc. Proin tempus pulvinar augue, Nemo enim ipsam voluptatem quia voluptas sit as minima rerums quis ultrices urna consectetur non.</p><p><br></p>[/pl_text]
+[pl_inner_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_list list_type="none" spacing="10" list_color="#000000ff" item_indent="4" icon_color="#73ae20ff" icon_border_type="" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Lato,14,,500,,,Solid,,,,"]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Digital[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Branding[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Illustration[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Photography[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_list list_type="none" spacing="10" list_color="#000000ff" item_indent="4" icon_color="#73ae20ff" icon_border_type="" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Lato,14,,500,,,Solid,,,,"]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Photography[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Digital[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Branding[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+Illustration[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Merriweather,30,,600,,,Solid,,,," align="center"]
+
+
+Recent Projects[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#73ae20ff" divider_weight="3" divider_widht="10" divider_gap="1" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="30px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/projectimg1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project One" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7" service_btn_spacing="10,0,20,0" service_content_spacing="0,0,25,0" service_image_spacing="0,0,10,0"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>[/pl_service]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/project-img2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Two" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7" service_btn_spacing="10,0,20,0" service_content_spacing="0,0,25,0" service_image_spacing="0,0,10,0"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>[/pl_service]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/project-img3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Three" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7" service_btn_spacing="10,0,20,0" service_content_spacing="0,0,25,0" service_image_spacing="0,0,10,0"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>[/pl_service]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="40px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/projectimg2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Four" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7" service_btn_spacing="10,0,20,0" service_content_spacing="0,0,25,0" service_image_spacing="0,0,10,0"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>[/pl_service]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/project-img5.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Five" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7" service_btn_spacing="10,0,20,0" service_content_spacing="0,0,25,0" service_image_spacing="0,0,10,0"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>[/pl_service]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/projectimg3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Six" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,22,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7" service_btn_spacing="10,0,20,0" service_content_spacing="0,0,25,0" service_image_spacing="0,0,10,0"]
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>[/pl_service]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="50px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Merriweather,30,,600,,,Solid,,,," align="center"]
+
+
+Our Partners[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#73ae20ff" divider_weight="3" divider_widht="10" divider_gap="1" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/partner1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/partner2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/partner3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/partner4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]

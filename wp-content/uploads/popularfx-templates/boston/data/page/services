@@ -1,0 +1,93 @@
+[pl_post_props post_title="services" post_name="services" featured_image="" ele_bg_hover_delay="400" post_excerpt="" post_status="publish"]
+[/pl_post_props]
+[pl_row]
+[pl_col col="12"]
+[pl_text]
+
+
+
+
+
+[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/service-img1.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff" ele_padding="60px,0px,60px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Merriweather,35,,500,,,Solid,,,,"]
+
+
+Our Services[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#73ae20ff" divider_weight="3" divider_widht="10" divider_gap="1" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" align="center" heading_typo="Merriweather,35,,500,,,Solid,,,,"]
+
+
+Some Of Our Featured Services[/pl_heading]
+[pl_divider divider_style="solid" divider_color="#73ae20ff" divider_weight="3" divider_widht="10" divider_gap="1" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="30px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-user" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#73ae20ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Human Resource" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" heading_color_hover="#ffffffff" service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" heading_typo_hover=",,,,,,Solid,,,," border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-share-square-o" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#3f9fbeff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Human Resource" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_bg_type="color" ele_bg_color=" " service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3f9fbeff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-user" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#73ae20ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Market Research" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" heading_color_hover="#ffffffff" service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" heading_typo_hover=",,,,,,Solid,,,," border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="30px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-check" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#3f9fbeff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Unique Solution" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_bg_type="color" ele_bg_color=" " service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3f9fbeff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-refresh" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#73ae20ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Conflict Management" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" heading_color_hover="#ffffffff" service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" heading_typo_hover=",,,,,,Solid,,,," border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-edit" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#3f9fbeff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Unlimited Property" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_bg_type="color" ele_bg_color=" " service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3f9fbeff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="30px,0px,0px,0px" ele_padding="0px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-music" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#73ae20ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Service Seven" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" heading_color_hover="#ffffffff" service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" heading_typo_hover=",,,,,,Solid,,,," border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-gift" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="hover" service_icon_color="#3f9fbeff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Eight Service" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_bg_type="color" ele_bg_color=" " service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#3f9fbeff" heading_color_hover="#ffffffff" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-bell" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#73ae20ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Service Nine" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Merriweather,20,,600,,,Solid,,,," heading_delay="600" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="600" service_icon_spacing="15,0,0,0" service_content_spacing="0,15,20,15" ele_css="{{element}}:hover .pagelayer-service-text{color:#ffffff;transition:0.6s;}" heading_color_hover="#ffffffff" service_icon_color_hover="#ffffffff" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#73ae20ff" heading_typo_hover=",,,,,,Solid,,,," border_radius="10px,10px,10px,10px"]
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
